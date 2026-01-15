@@ -1,6 +1,6 @@
 # Saudi Real Estate Deals DW (MySQL)
 
-## Run order (company-style)
+## Run order 
 
 1. `sql/00_bootstrap/00_create_database.sql`
 2. `sql/01_schema/05_audit_tables.sql`
